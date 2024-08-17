@@ -1,0 +1,18 @@
+[
+  {
+    "classNbr": "2901",
+    "course": "LBYMCRO",
+    "section": "S11",
+    "schedules": [
+      {
+        "day": "H",
+        "time": "1300 - 1600",
+        "room": "GK407"
+      }
+    ],
+    "enrollmentCap": "20",
+    "enrolled": "20",
+    "remarks": "PIP",
+    "professor": "ONG, CLEMENT  YU"
+  }
+]

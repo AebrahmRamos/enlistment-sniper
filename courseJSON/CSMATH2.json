@@ -1,0 +1,44 @@
+[
+  {
+    "classNbr": "1945",
+    "course": "CSMATH2",
+    "section": "S11",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1245 - 1415",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1245 - 1415",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "HYB /HYBRID",
+    "professor": null
+  },
+  {
+    "classNbr": "1946",
+    "course": "CSMATH2",
+    "section": "S12",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1430 - 1600",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1430 - 1600",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "HYB /HYBRID",
+    "professor": null
+  }
+]

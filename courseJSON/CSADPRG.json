@@ -1,0 +1,149 @@
+[
+  {
+    "classNbr": "1274",
+    "course": "CSADPRG",
+    "section": "S11",
+    "schedules": [
+      {
+        "day": "W",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "S",
+        "time": "0730 - 0900",
+        "room": "GK201"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "HYB /HYBRID",
+    "professor": "BAUTISTA, ROMUALDO JR.  M."
+  },
+  {
+    "classNbr": "1275",
+    "course": "CSADPRG",
+    "section": "S12",
+    "schedules": [
+      {
+        "day": "W",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "S",
+        "time": "0915 - 1045",
+        "room": "GK201"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "33",
+    "remarks": "HYB /HYBRID",
+    "professor": null
+  },
+  {
+    "classNbr": "1276",
+    "course": "CSADPRG",
+    "section": "S13",
+    "schedules": [
+      {
+        "day": "W",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "S",
+        "time": "1100 - 1230",
+        "room": "GK201"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "17",
+    "remarks": "HYB /HYBRID",
+    "professor": null
+  },
+  {
+    "classNbr": "1277",
+    "course": "CSADPRG",
+    "section": "S14",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1615 - 1745",
+        "room": "GK203"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "HYB /HYBRID",
+    "professor": null
+  },
+  {
+    "classNbr": "1256",
+    "course": "CSADPRG",
+    "section": "S15",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1430 - 1600",
+        "room": "GK204"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "HYB /HYBRID",
+    "professor": "TIGHE, EDWARD  PATRICK"
+  },
+  {
+    "classNbr": "1373",
+    "course": "CSADPRG",
+    "section": "S16",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1615 - 1745",
+        "room": "GK204"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "HYB /HYBRID",
+    "professor": "TIGHE, EDWARD  PATRICK"
+  },
+  {
+    "classNbr": "602",
+    "course": "CSADPRG",
+    "section": "XX22",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1430 - 1600",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1430 - 1600",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "12",
+    "remarks": "POL",
+    "professor": "CHENG, CHARIBETH  KO"
+  }
+]

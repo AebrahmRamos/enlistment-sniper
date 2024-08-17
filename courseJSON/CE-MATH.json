@@ -1,0 +1,23 @@
+[
+  {
+    "classNbr": "5539",
+    "course": "CE-MATH",
+    "section": "S11",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1430 - 1600",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1430 - 1600",
+        "room": "AG1705"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "26",
+    "remarks": "HYB /HYBRID",
+    "professor": "ILAO, JOEL  PAZ"
+  }
+]

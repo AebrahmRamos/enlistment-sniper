@@ -1,0 +1,65 @@
+[
+  {
+    "classNbr": "5152",
+    "course": "CSNETWK",
+    "section": "S11",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1800 - 1930",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1800 - 1930",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "FOL /FULLONLINE",
+    "professor": "SANTOS, ROMA  O."
+  },
+  {
+    "classNbr": "3736",
+    "course": "CSNETWK",
+    "section": "S12",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1100 - 1230",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1100 - 1230",
+        "room": "VL204"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "HYB /HYBRID",
+    "professor": "SOLOMON, KATRINA YSABEL  CAMTAN"
+  },
+  {
+    "classNbr": "5206",
+    "course": "CSNETWK",
+    "section": "S13",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1100 - 1230",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1245 - 1415",
+        "room": "VL204"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "HYB /HYBRID",
+    "professor": "SOLOMON, KATRINA YSABEL  CAMTAN"
+  }
+]

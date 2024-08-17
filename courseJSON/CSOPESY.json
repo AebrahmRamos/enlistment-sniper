@@ -1,0 +1,149 @@
+[
+  {
+    "classNbr": "2099",
+    "course": "CSOPESY",
+    "section": "S11",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1430 - 1600",
+        "room": "GK207"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "DEL GALLEGO, NEIL PATRICK  ABARRO"
+  },
+  {
+    "classNbr": "2100",
+    "course": "CSOPESY",
+    "section": "S12",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1615 - 1745",
+        "room": "GK207"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "DEL GALLEGO, NEIL PATRICK  ABARRO"
+  },
+  {
+    "classNbr": "1379",
+    "course": "CSOPESY",
+    "section": "S13",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "0915 - 1045",
+        "room": "AG1707"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "MANTUA, JONATHAN  CADELI�A"
+  },
+  {
+    "classNbr": "1380",
+    "course": "CSOPESY",
+    "section": "S14",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1100 - 1230",
+        "room": "AG1707"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "MANTUA, JONATHAN  CADELI�A"
+  },
+  {
+    "classNbr": "1381",
+    "course": "CSOPESY",
+    "section": "S15",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1430 - 1600",
+        "room": "GK202"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "MANTUA, JONATHAN  CADELI�A"
+  },
+  {
+    "classNbr": "1382",
+    "course": "CSOPESY",
+    "section": "S16",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1615 - 1745",
+        "room": "GK202"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "MANTUA, JONATHAN  CADELI�A"
+  },
+  {
+    "classNbr": "1465",
+    "course": "CSOPESY",
+    "section": "XX22",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1800 - 1930",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1800 - 1930",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "3",
+    "remarks": "HYB",
+    "professor": "AGUILAR, EMERICO  HABACON"
+  }
+]

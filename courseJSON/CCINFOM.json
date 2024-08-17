@@ -1,0 +1,212 @@
+[
+  {
+    "classNbr": "2111",
+    "course": "CCINFOM",
+    "section": "S11",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0730 - 0900",
+        "room": "GK304B"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "8",
+    "remarks": "HYB /HYBRID",
+    "professor": "MALABANAN, OLIVER  ARCIAGA"
+  },
+  {
+    "classNbr": "2112",
+    "course": "CCINFOM",
+    "section": "S12",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0915 - 1045",
+        "room": "GK304B"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "30",
+    "remarks": "HYB /HYBRID",
+    "professor": "MALABANAN, OLIVER  ARCIAGA"
+  },
+  {
+    "classNbr": "1278",
+    "course": "CCINFOM",
+    "section": "S13",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0730 - 0900",
+        "room": "AG1904"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "BERTUMEN, ESTEFANIE  ULIT"
+  },
+  {
+    "classNbr": "1279",
+    "course": "CCINFOM",
+    "section": "S14",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0915 - 1045",
+        "room": "AG1904"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "BERTUMEN, ESTEFANIE  ULIT"
+  },
+  {
+    "classNbr": "1333",
+    "course": "CCINFOM",
+    "section": "S15",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "0730 - 0900",
+        "room": "AG1904"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "BERTUMEN, ESTEFANIE  ULIT"
+  },
+  {
+    "classNbr": "2096",
+    "course": "CCINFOM",
+    "section": "S16",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "0915 - 1045",
+        "room": "AG1904"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "BERTUMEN, ESTEFANIE  ULIT"
+  },
+  {
+    "classNbr": "2097",
+    "course": "CCINFOM",
+    "section": "S17",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1245 - 1415",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1245 - 1415",
+        "room": "AG1904"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "TANGKEKO, MARIVIC  SANTOS"
+  },
+  {
+    "classNbr": "5157",
+    "course": "CCINFOM",
+    "section": "S18",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1245 - 1415",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1245 - 1415",
+        "room": "GK304B"
+      }
+    ],
+    "enrollmentCap": "43",
+    "enrolled": "43",
+    "remarks": "HYB /HYBRID",
+    "professor": "TANGKEKO, MARIVIC  SANTOS"
+  },
+  {
+    "classNbr": "5158",
+    "course": "CCINFOM",
+    "section": "S19",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0915 - 1045",
+        "room": "GK404B"
+      }
+    ],
+    "enrollmentCap": "30",
+    "enrolled": "30",
+    "remarks": "HYB /HYBRID",
+    "professor": "TANGKEKO, MARIVIC  SANTOS"
+  },
+  {
+    "classNbr": "617",
+    "course": "CCINFOM",
+    "section": "XX22",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "25",
+    "enrolled": "4",
+    "remarks": "HYB",
+    "professor": "GENDRANO, MA. CHRISTINE  AGENA"
+  }
+]

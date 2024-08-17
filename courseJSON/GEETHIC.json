@@ -1,0 +1,1115 @@
+[
+  {
+    "classNbr": "1486",
+    "course": "GEETHIC",
+    "section": "A65C",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1100 - 1230",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1100 - 1230",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "45",
+    "enrolled": "34",
+    "remarks": "FULL ONLINE/FROSH BLOCK",
+    "professor": "DILLENA, KENNITH GREGORY  CAUMERAN"
+  },
+  {
+    "classNbr": "1489",
+    "course": "GEETHIC",
+    "section": "C31A",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1100 - 1230",
+        "room": "LS226"
+      },
+      {
+        "day": "F",
+        "time": "1100 - 1230",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "45",
+    "enrolled": "33",
+    "remarks": "HYBRID/FROSH BLOCK",
+    "professor": "GOJOCCO, VICTOR  ELAZEGUI"
+  },
+  {
+    "classNbr": "1487",
+    "course": "GEETHIC",
+    "section": "EM1",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "45",
+    "enrolled": "14",
+    "remarks": "FULL ONLINE/FROSH BLOCK",
+    "professor": "ARANILLA, MAXELL  CARINGAL"
+  },
+  {
+    "classNbr": "1488",
+    "course": "GEETHIC",
+    "section": "EM2",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "45",
+    "enrolled": "30",
+    "remarks": "FULL ONLINE/FROSH BLOCK",
+    "professor": "ARANILLA, MAXELL  CARINGAL"
+  },
+  {
+    "classNbr": "1679",
+    "course": "GEETHIC",
+    "section": "L83B",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "45",
+    "enrolled": "20",
+    "remarks": "FULL ONLINE/FROSH BLOCK",
+    "professor": "LACSA, JOSE ERIC  MELLA"
+  },
+  {
+    "classNbr": "229",
+    "course": "GEETHIC",
+    "section": "L84B",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "45",
+    "enrolled": "34",
+    "remarks": "FULL ONLINE/FROSH BLOCK",
+    "professor": "LACSA, JOSE ERIC  MELLA"
+  },
+  {
+    "classNbr": "1676",
+    "course": "GEETHIC",
+    "section": "XY22",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "11",
+    "remarks": "HYB",
+    "professor": "ESTEVES, MARTIN JOSEPH  CASTILLO"
+  },
+  {
+    "classNbr": "1678",
+    "course": "GEETHIC",
+    "section": "XZE1",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "24",
+    "remarks": "HYB",
+    "professor": "CANETE, JONATHAN JAMES  O."
+  },
+  {
+    "classNbr": "1677",
+    "course": "GEETHIC",
+    "section": "XZE2",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1245 - 1415",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1245 - 1415",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "32",
+    "remarks": "HYB",
+    "professor": "CANETE, JONATHAN JAMES  O."
+  },
+  {
+    "classNbr": "1527",
+    "course": "GEETHIC",
+    "section": "Y01",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "FULL ONLINE",
+    "professor": "DACELA, MARK ANTHONY  LAZARA"
+  },
+  {
+    "classNbr": "1526",
+    "course": "GEETHIC",
+    "section": "Y02",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "FULL ONLINE",
+    "professor": "DACELA, MARK ANTHONY  LAZARA"
+  },
+  {
+    "classNbr": "1525",
+    "course": "GEETHIC",
+    "section": "Y03",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1100 - 1230",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1100 - 1230",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "FULL ONLINE",
+    "professor": "LACSA, JOSE ERIC  MELLA"
+  },
+  {
+    "classNbr": "1524",
+    "course": "GEETHIC",
+    "section": "Y04",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1245 - 1415",
+        "room": "SJ211"
+      },
+      {
+        "day": "H",
+        "time": "1245 - 1415",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "MANALASTAS, KATYA  E."
+  },
+  {
+    "classNbr": "1675",
+    "course": "GEETHIC",
+    "section": "Y05",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1430 - 1600",
+        "room": "SJ211"
+      },
+      {
+        "day": "H",
+        "time": "1430 - 1600",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "GO, JOANNA FELISA  CO"
+  },
+  {
+    "classNbr": "1674",
+    "course": "GEETHIC",
+    "section": "Y06",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1615 - 1745",
+        "room": "LS330"
+      },
+      {
+        "day": "H",
+        "time": "1615 - 1745",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "GO, JOANNA FELISA  CO"
+  },
+  {
+    "classNbr": "1523",
+    "course": "GEETHIC",
+    "section": "Y07",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1800 - 1930",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1800 - 1930",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "FULL ONLINE",
+    "professor": "FUNGO, JOYCE ESTELLE  SEVILLA"
+  },
+  {
+    "classNbr": "1522",
+    "course": "GEETHIC",
+    "section": "Y08",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0730 - 0900",
+        "room": "LS227"
+      },
+      {
+        "day": "F",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "BOYLES, ROBERT JAMES  MIRANDA"
+  },
+  {
+    "classNbr": "1521",
+    "course": "GEETHIC",
+    "section": "Y09",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0915 - 1045",
+        "room": "LS227"
+      },
+      {
+        "day": "F",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "BOYLES, ROBERT JAMES  MIRANDA"
+  },
+  {
+    "classNbr": "1520",
+    "course": "GEETHIC",
+    "section": "Y10",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1100 - 1230",
+        "room": "LS311"
+      },
+      {
+        "day": "F",
+        "time": "1100 - 1230",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "DOLOR, RAMON RAFAEL  LAYGO"
+  },
+  {
+    "classNbr": "1519",
+    "course": "GEETHIC",
+    "section": "Y11",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1245 - 1415",
+        "room": "LS311"
+      },
+      {
+        "day": "F",
+        "time": "1245 - 1415",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "PERACULLO, JEANE  CA�A"
+  },
+  {
+    "classNbr": "1518",
+    "course": "GEETHIC",
+    "section": "Y12",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1430 - 1600",
+        "room": "VL501"
+      },
+      {
+        "day": "F",
+        "time": "1430 - 1600",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "LACSA, JOSE ERIC  MELLA"
+  },
+  {
+    "classNbr": "1517",
+    "course": "GEETHIC",
+    "section": "Y13",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": "VL501"
+      },
+      {
+        "day": "F",
+        "time": "1615 - 1745",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "MANALASTAS, KATYA  E."
+  },
+  {
+    "classNbr": "1516",
+    "course": "GEETHIC",
+    "section": "Y14",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1800 - 1930",
+        "room": "VL501"
+      },
+      {
+        "day": "F",
+        "time": "1800 - 1930",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "GARCIA, JONATHAN  A."
+  },
+  {
+    "classNbr": "1515",
+    "course": "GEETHIC",
+    "section": "Y15",
+    "schedules": [
+      {
+        "day": "W",
+        "time": "0730 - 0900",
+        "room": "LS331"
+      },
+      {
+        "day": "S",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "BOYLES, ROBERT JAMES  MIRANDA"
+  },
+  {
+    "classNbr": "1514",
+    "course": "GEETHIC",
+    "section": "Y16",
+    "schedules": [
+      {
+        "day": "W",
+        "time": "0915 - 1045",
+        "room": "LS331"
+      },
+      {
+        "day": "S",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "BOYLES, ROBERT JAMES  MIRANDA"
+  },
+  {
+    "classNbr": "1513",
+    "course": "GEETHIC",
+    "section": "Y17",
+    "schedules": [
+      {
+        "day": "W",
+        "time": "1100 - 1230",
+        "room": "LS331"
+      },
+      {
+        "day": "S",
+        "time": "1100 - 1230",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "LACSA, JOSE ERIC  MELLA"
+  },
+  {
+    "classNbr": "1512",
+    "course": "GEETHIC",
+    "section": "Y18",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0730 - 0900",
+        "room": "LS330"
+      },
+      {
+        "day": "H",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "MALBAROSA, JOSE MA. ARCADIO  CLEMENO"
+  },
+  {
+    "classNbr": "1511",
+    "course": "GEETHIC",
+    "section": "Y19",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "0915 - 1045",
+        "room": "LS330"
+      },
+      {
+        "day": "H",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "MALBAROSA, JOSE MA. ARCADIO  CLEMENO"
+  },
+  {
+    "classNbr": "1510",
+    "course": "GEETHIC",
+    "section": "Y20",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1100 - 1230",
+        "room": "SM406"
+      },
+      {
+        "day": "H",
+        "time": "1100 - 1230",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "UNSON, CESAR  J."
+  },
+  {
+    "classNbr": "1509",
+    "course": "GEETHIC",
+    "section": "Y21",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1245 - 1415",
+        "room": "SM406"
+      },
+      {
+        "day": "H",
+        "time": "1245 - 1415",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "MALBAROSA, JOSE MA. ARCADIO  CLEMENO"
+  },
+  {
+    "classNbr": "1508",
+    "course": "GEETHIC",
+    "section": "Y22",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1430 - 1600",
+        "room": "LS208"
+      },
+      {
+        "day": "H",
+        "time": "1430 - 1600",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "UNSON, CESAR  J."
+  },
+  {
+    "classNbr": "1673",
+    "course": "GEETHIC",
+    "section": "Y23",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1615 - 1745",
+        "room": "LS208"
+      },
+      {
+        "day": "H",
+        "time": "1615 - 1745",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "LACSA, JOSE ERIC  MELLA"
+  },
+  {
+    "classNbr": "1672",
+    "course": "GEETHIC",
+    "section": "Y24",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1800 - 1930",
+        "room": "LS208"
+      },
+      {
+        "day": "H",
+        "time": "1800 - 1930",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "LACSA, JOSE ERIC  MELLA"
+  },
+  {
+    "classNbr": "1507",
+    "course": "GEETHIC",
+    "section": "Y25",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0730 - 0900",
+        "room": "SJ210"
+      },
+      {
+        "day": "F",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "DOLOR, RAMON RAFAEL  LAYGO"
+  },
+  {
+    "classNbr": "1506",
+    "course": "GEETHIC",
+    "section": "Y26",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0915 - 1045",
+        "room": "SJ210"
+      },
+      {
+        "day": "F",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "GOJOCCO, VICTOR  ELAZEGUI"
+  },
+  {
+    "classNbr": "1505",
+    "course": "GEETHIC",
+    "section": "Y27",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1100 - 1230",
+        "room": "SJ211"
+      },
+      {
+        "day": "F",
+        "time": "1100 - 1230",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "VELASCO, MARY LAUREEN  LEYVA"
+  },
+  {
+    "classNbr": "1504",
+    "course": "GEETHIC",
+    "section": "Y28",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1245 - 1415",
+        "room": "SJ211"
+      },
+      {
+        "day": "F",
+        "time": "1245 - 1415",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "VELASCO, MARY LAUREEN  LEYVA"
+  },
+  {
+    "classNbr": "1503",
+    "course": "GEETHIC",
+    "section": "Y29",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1430 - 1600",
+        "room": "VL507"
+      },
+      {
+        "day": "F",
+        "time": "1430 - 1600",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "MOZOL, ALVENIO  GAMBAN"
+  },
+  {
+    "classNbr": "1502",
+    "course": "GEETHIC",
+    "section": "Y30",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": "VL507"
+      },
+      {
+        "day": "F",
+        "time": "1615 - 1745",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "32",
+    "remarks": "HYBRID",
+    "professor": "VELASCO, MARY LAUREEN  LEYVA"
+  },
+  {
+    "classNbr": "1501",
+    "course": "GEETHIC",
+    "section": "Y31",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1800 - 1930",
+        "room": "VL507"
+      },
+      {
+        "day": "F",
+        "time": "1800 - 1930",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "31",
+    "remarks": "HYBRID",
+    "professor": "MOZOL, ALVENIO  GAMBAN"
+  },
+  {
+    "classNbr": "1500",
+    "course": "GEETHIC",
+    "section": "Z32",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1100 - 1230",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1100 - 1230",
+        "room": "LS319"
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "VELASCO, MARY LAUREEN  LEYVA"
+  },
+  {
+    "classNbr": "1499",
+    "course": "GEETHIC",
+    "section": "Z33",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1245 - 1415",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1245 - 1415",
+        "room": "LS319"
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "25",
+    "remarks": "HYBRID",
+    "professor": "VELASCO, MARY LAUREEN  LEYVA"
+  },
+  {
+    "classNbr": "1498",
+    "course": "GEETHIC",
+    "section": "Z34",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1430 - 1600",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1430 - 1600",
+        "room": "LS319"
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "11",
+    "remarks": "HYBRID",
+    "professor": "ESTEVES, MARTIN JOSEPH  CASTILLO"
+  },
+  {
+    "classNbr": "1497",
+    "course": "GEETHIC",
+    "section": "Z35",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1615 - 1745",
+        "room": "LS313"
+      }
+    ],
+    "enrollmentCap": "0",
+    "enrolled": "32",
+    "remarks": "HYBRID/RESTRICTED",
+    "professor": "VELASCO, MARY LAUREEN  LEYVA"
+  },
+  {
+    "classNbr": "1496",
+    "course": "GEETHIC",
+    "section": "Z36",
+    "schedules": [
+      {
+        "day": "M",
+        "time": "1800 - 1930",
+        "room": null
+      },
+      {
+        "day": "H",
+        "time": "1800 - 1930",
+        "room": "LS313"
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "DUCUT, JULLIAN DOMINIC  D."
+  },
+  {
+    "classNbr": "1495",
+    "course": "GEETHIC",
+    "section": "Z37",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0730 - 0900",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "0730 - 0900",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "FULL ONLINE",
+    "professor": "BIANA, HAZEL  TIONLOC"
+  },
+  {
+    "classNbr": "1494",
+    "course": "GEETHIC",
+    "section": "Z38",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "0915 - 1045",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "0915 - 1045",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "FULL ONLINE",
+    "professor": "BIANA, HAZEL  TIONLOC"
+  },
+  {
+    "classNbr": "1493",
+    "course": "GEETHIC",
+    "section": "Z39",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1100 - 1230",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1100 - 1230",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "FULL ONLINE",
+    "professor": "TAN, KEAN ANDERSON  S."
+  },
+  {
+    "classNbr": "1492",
+    "course": "GEETHIC",
+    "section": "Z40",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1245 - 1415",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1245 - 1415",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "FULL ONLINE",
+    "professor": "FUNGO, JOYCE ESTELLE  SEVILLA"
+  },
+  {
+    "classNbr": "1491",
+    "course": "GEETHIC",
+    "section": "Z41",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1430 - 1600",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1430 - 1600",
+        "room": "LS332"
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "LUALHATI, VICTORINO RAYMUNDO  TORINO"
+  },
+  {
+    "classNbr": "1671",
+    "course": "GEETHIC",
+    "section": "Z42",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1615 - 1745",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1615 - 1745",
+        "room": "SJ211"
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "35",
+    "remarks": "HYBRID",
+    "professor": "FESTIN, LORENZ MOISES  J."
+  },
+  {
+    "classNbr": "1670",
+    "course": "GEETHIC",
+    "section": "Z43",
+    "schedules": [
+      {
+        "day": "T",
+        "time": "1800 - 1930",
+        "room": null
+      },
+      {
+        "day": "F",
+        "time": "1800 - 1930",
+        "room": "SJ211"
+      }
+    ],
+    "enrollmentCap": "35",
+    "enrolled": "31",
+    "remarks": "HYBRID",
+    "professor": "DUCUT, JULLIAN DOMINIC  D."
+  },
+  {
+    "classNbr": "1490",
+    "course": "GEETHIC",
+    "section": "Z44",
+    "schedules": [
+      {
+        "day": "W",
+        "time": "1100 - 1230",
+        "room": null
+      },
+      {
+        "day": "S",
+        "time": "1100 - 1230",
+        "room": "SJ112"
+      }
+    ],
+    "enrollmentCap": "0",
+    "enrolled": "33",
+    "remarks": "HYBRID/RESTRICTED",
+    "professor": "MANALASTAS, KATYA  E."
+  }
+]
