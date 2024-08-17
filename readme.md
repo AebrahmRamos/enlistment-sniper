@@ -1,4 +1,4 @@
-# Course Enrollment Automation
+# Course Enlistment Automation/Sniper
 
 This project automates the process of checking for available classes and attempting enrollment using the Animosys system.
 
