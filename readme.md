@@ -17,7 +17,7 @@ Instead of auto enlisting by opening callin `animosys.js` you can modify `index.
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/AebrahmRamos/enlistment-sniper/edit/main/readme.md)
     cd <repository-directory>
     ```
 
