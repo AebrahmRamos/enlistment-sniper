@@ -1,36 +1,70 @@
-const webdriver = require('selenium-webdriver');
-const By = webdriver.By;
-const until = webdriver.until;
+require('dotenv').config();
+const { firefox } = require('playwright');
 
 async function enlist(classNbr) {
-    let driver = await new webdriver.Builder().forBrowser('firefox').build();
-    
+    const userId = process.env.USER_ID;
+    const password = process.env.PASSWORD;
+
+    const browser = await firefox.launch({ headless: false });
+    const context = await browser.newContext();
+    const page = await context.newPage();
+
     try {
-        await driver.get('https://animo.sys.dlsu.edu.ph/');
-        await driver.wait(until.elementLocated(By.css('#userid')), 10000);
-        await driver.wait(until.elementLocated(By.css('#pwd')), 10000);
-        
-        await driver.findElement(By.css('#userid')).sendKeys('YOUR_ID_HERE');
-        await driver.findElement(By.css('#pwd')).sendKeys('YOUR_PASSWORD_HERE');
-        await driver.findElement(By.css('body > table > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1) > td > table > tbody > tr > td > table > tbody > tr:nth-child(1) > td.psloginframe > table:nth-child(3) > tbody > tr:nth-child(4) > td:nth-child(3) > input')).click();
-        
-        await driver.get('https://animo.sys.dlsu.edu.ph/psp/ps/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_CART.GBL?FolderPath=PORTAL_ROOT_OBJECT.CO_EMPLOYEE_SELF_SERVICE.HCCC_ENROLLMENT.HC_SSR_SSENRL_CART_GBL&IsFolder=false&IgnoreParamTempl=FolderPath%2cIsFolder');
-        
-        await driver.wait(until.elementLocated(By.css('#DERIVED_REGFRM1_CLASS_NBR')), 10000);
-        await driver.findElement(By.css('#DERIVED_REGFRM1_CLASS_NBR')).sendKeys(classNbr);
-        
-        await driver.wait(until.elementLocated(By.xpath('//*[@id="DERIVED_REGFRM1_SSR_PB_ADDTOLIST2$70$"]')), 10000);
-        await driver.findElement(By.xpath('//*[@id="DERIVED_REGFRM1_SSR_PB_ADDTOLIST2$70$"]')).click();
-        
-        await driver.wait(until.elementLocated(By.xpath('//*[@id="DERIVED_CLS_DTL_NEXT_PB$76$"]')), 10000);
-        await driver.findElement(By.xpath('//*[@id="DERIVED_CLS_DTL_NEXT_PB$76$"]')).click();
-        
-        console.log(`Successfully enrolled in class ${classNbr}`);
+        // Navigate to Animo.sys login page
+        console.log('Navigating to Animo.sys login page...');
+        await page.goto('https://animo.sys.dlsu.edu.ph/');
+
+        // Checking if still cloudflare challenge
+        console.log('Waiting for Cloudflare challenge to complete...');
+        await page.waitForLoadState('networkidle');
+
+        console.log('Cloudflare challenge passed. Proceeding to login...');
+        if (!userId || !password) {
+            throw new Error('USER_ID or PASSWORD is not set in the .env file');
+        }
+        await page.fill('#userid', userId);
+        await page.fill('#pwd', password);
+        await page.click('input[type="submit"]');
+
+        console.log('Navigating to enrollment cart page...');
+        await page.goto('https://animo.sys.dlsu.edu.ph/psp/ps/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_CART.GBL');
+
+        console.log(`Entering class number ${classNbr}...`);
+        await page.fill('#DERIVED_REGFRM1_CLASS_NBR', classNbr);
+        await page.click('#DERIVED_REGFRM1_SSR_PB_ADDTOLIST2$70$');
+
+        console.log('Checking class availability...');
+        const statusText = await page.textContent('#DERIVED_CLS_DTL_SSR_DESCRSHORT$0');
+
+        if (statusText === 'open') {
+            console.log('Class is open. Proceeding to next step...');
+            await page.click('#DERIVED_CLS_DTL_NEXT_PB$76$');
+
+            const successMessageText = await page.textContent('#DERIVED_SASSMSG_ERROR_TEXT$0');
+            if (successMessageText.includes('has been added to your shopping cart')) {
+                console.log('Class successfully added to shopping cart.');
+            } else {
+                console.log('Unexpected message:', successMessageText);
+            }
+        } else if (statusText === 'close') {
+            console.log('Class is closed. Cancelling...');
+            await page.click('#DERIVED_CLS_DTL_CANCEL_PB$75$');
+            await page.click('#ICCancel');
+        }
+
+        // console.log('Proceeding to checkout...');
+        // await page.click('#DERIVED_REGFRM1_LINK_ADD_ENRL$114$');
+
+        // console.log('Finalizing enrollment...');
+        // await page.click('#DERIVED_REGFRM1_SSR_PB_SUBMIT');
+
+        // console.log(`Successfully enrolled in class ${classNbr}`);
     } catch (error) {
-        console.error('An error occurred:', error);
+        console.error('An error occurred during the enrollment process:', error);
         throw error;
     } finally {
-        await driver.quit();
+        console.log('Closing browser...');
+        await browser.close();
     }
 }
 

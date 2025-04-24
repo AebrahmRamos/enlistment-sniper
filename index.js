@@ -56,18 +56,21 @@ function checkAvailability(courses, watchlist) {
 async function main() {
     console.log('Starting enrollment monitoring...');
 
-    setInterval(async () => {
+    async function monitor() {
         try {
-            await fetchJSON();
+            await fetchJSON.fetchObject();
             console.log('\n\nfetchJSON completed successfully\n\n');
             await checkAndSnipe();
         } catch (error) {
-            console.error('Error running fetchJSON:', error);
+            console.error('Error during monitoring:', error);
+        } finally {
+            // Schedule the next execution after the fetch interval
+            setTimeout(monitor, fetchInterval);
         }
-    }, fetchInterval);
+    }
 
-    // Initial check
-    await checkAndSnipe();
+    // Start the monitoring loop
+    await monitor();
 }
 
 async function checkAndSnipe() {
@@ -79,6 +82,7 @@ async function checkAndSnipe() {
     for (const classNbr of availableClasses) {
         console.log(`Class ${classNbr} is available. Running animosys...`);
         try {
+            // Wait for animosys to finish before proceeding to the next class
             await animosys(classNbr);
             console.log(`Enrollment attempt for class ${classNbr} completed`);
         } catch (error) {

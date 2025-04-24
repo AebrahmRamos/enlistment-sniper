@@ -1,0 +1,775 @@
+[
+  {
+    "classNbr": "4318",
+    "course": "LASARE3",
+    "section": "A51",
+    "schedules": [
+      {
+        "day": "MAY14",
+        "time": "1515 - 1615",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "7",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "4317",
+    "course": "LASARE3",
+    "section": "A52",
+    "schedules": [
+      {
+        "day": "MAY14",
+        "time": "1515 - 1615",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "13",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "4316",
+    "course": "LASARE3",
+    "section": "A53",
+    "schedules": [
+      {
+        "day": "MAY14",
+        "time": "1515 - 1615",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "3",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "3735",
+    "course": "LASARE3",
+    "section": "A54",
+    "schedules": [
+      {
+        "day": "MAY21",
+        "time": "1515 - 1615",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "5",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "3734",
+    "course": "LASARE3",
+    "section": "A55",
+    "schedules": [
+      {
+        "day": "MAY21",
+        "time": "1515 - 1615",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "9",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "3733",
+    "course": "LASARE3",
+    "section": "A56",
+    "schedules": [
+      {
+        "day": "MAY21",
+        "time": "1515 - 1615",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "15",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "3732",
+    "course": "LASARE3",
+    "section": "A57",
+    "schedules": [
+      {
+        "day": "JUN04",
+        "time": "1515 - 1615",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "15",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "3731",
+    "course": "LASARE3",
+    "section": "A58",
+    "schedules": [
+      {
+        "day": "JUN04",
+        "time": "1515 - 1615",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "16",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "739",
+    "course": "LASARE3",
+    "section": "C31",
+    "schedules": [
+      {
+        "day": "MAY14",
+        "time": "1400 - 1500",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "40",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "740",
+    "course": "LASARE3",
+    "section": "C32",
+    "schedules": [
+      {
+        "day": "MAY14",
+        "time": "1400 - 1500",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "39",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "741",
+    "course": "LASARE3",
+    "section": "C33",
+    "schedules": [
+      {
+        "day": "MAY14",
+        "time": "1400 - 1500",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "17",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "314",
+    "course": "LASARE3",
+    "section": "C34",
+    "schedules": [
+      {
+        "day": "MAY21",
+        "time": "1400 - 1500",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "39",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "742",
+    "course": "LASARE3",
+    "section": "C35",
+    "schedules": [
+      {
+        "day": "MAY21",
+        "time": "1400 - 1500",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "31",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "367",
+    "course": "LASARE3",
+    "section": "C36",
+    "schedules": [
+      {
+        "day": "MAY21",
+        "time": "1400 - 1500",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "19",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "743",
+    "course": "LASARE3",
+    "section": "C37",
+    "schedules": [
+      {
+        "day": "JUN04",
+        "time": "1400 - 1500",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "16",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "744",
+    "course": "LASARE3",
+    "section": "C38",
+    "schedules": [
+      {
+        "day": "JUN04",
+        "time": "1400 - 1500",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "12",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "745",
+    "course": "LASARE3",
+    "section": "C39",
+    "schedules": [
+      {
+        "day": "JUN04",
+        "time": "1400 - 1500",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "17",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "746",
+    "course": "LASARE3",
+    "section": "C40",
+    "schedules": [
+      {
+        "day": "JUN25",
+        "time": "1400 - 1500",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "18",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "747",
+    "course": "LASARE3",
+    "section": "C41",
+    "schedules": [
+      {
+        "day": "JUN25",
+        "time": "1400 - 1500",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "6",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "748",
+    "course": "LASARE3",
+    "section": "C42",
+    "schedules": [
+      {
+        "day": "JUN25",
+        "time": "1400 - 1500",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "2",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "749",
+    "course": "LASARE3",
+    "section": "C43",
+    "schedules": [
+      {
+        "day": "JUN18",
+        "time": "1400 - 1500",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "16",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "750",
+    "course": "LASARE3",
+    "section": "C44",
+    "schedules": [
+      {
+        "day": "JUN18",
+        "time": "1400 - 1500",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "8",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "751",
+    "course": "LASARE3",
+    "section": "C45",
+    "schedules": [
+      {
+        "day": "JUN18",
+        "time": "1400 - 1500",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "8",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "752",
+    "course": "LASARE3",
+    "section": "C46",
+    "schedules": [
+      {
+        "day": "JUL09",
+        "time": "1400 - 1500",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "9",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "753",
+    "course": "LASARE3",
+    "section": "C47",
+    "schedules": [
+      {
+        "day": "JUL09",
+        "time": "1400 - 1500",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "4",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "754",
+    "course": "LASARE3",
+    "section": "C48",
+    "schedules": [
+      {
+        "day": "JUL09",
+        "time": "1400 - 1500",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "15",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "755",
+    "course": "LASARE3",
+    "section": "C49",
+    "schedules": [
+      {
+        "day": "JUL23",
+        "time": "1400 - 1500",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "3",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "756",
+    "course": "LASARE3",
+    "section": "C50",
+    "schedules": [
+      {
+        "day": "JUL23",
+        "time": "1400 - 1500",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "4",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "757",
+    "course": "LASARE3",
+    "section": "C80",
+    "schedules": [
+      {
+        "day": "JUL23",
+        "time": "1400 - 1500",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "8",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5007",
+    "course": "LASARE3",
+    "section": "EA",
+    "schedules": [
+      {
+        "day": "JUN04",
+        "time": "1515 - 1615",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "11",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5001",
+    "course": "LASARE3",
+    "section": "EB",
+    "schedules": [
+      {
+        "day": "JUN11",
+        "time": "1515 - 1615",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "23",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5004",
+    "course": "LASARE3",
+    "section": "EC",
+    "schedules": [
+      {
+        "day": "JUN11",
+        "time": "1515 - 1615",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "2",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5008",
+    "course": "LASARE3",
+    "section": "ED",
+    "schedules": [
+      {
+        "day": "JUN11",
+        "time": "1515 - 1615",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "3",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5002",
+    "course": "LASARE3",
+    "section": "EE",
+    "schedules": [
+      {
+        "day": "JUN25",
+        "time": "1515 - 1615",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "7",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5005",
+    "course": "LASARE3",
+    "section": "EF",
+    "schedules": [
+      {
+        "day": "JUN25",
+        "time": "1515 - 1615",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "16",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5009",
+    "course": "LASARE3",
+    "section": "EG",
+    "schedules": [
+      {
+        "day": "JUN25",
+        "time": "1515 - 1615",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "5",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5003",
+    "course": "LASARE3",
+    "section": "EH",
+    "schedules": [
+      {
+        "day": "JUL09",
+        "time": "1515 - 1615",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "3",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5006",
+    "course": "LASARE3",
+    "section": "EI",
+    "schedules": [
+      {
+        "day": "JUL09",
+        "time": "1515 - 1615",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "0",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5010",
+    "course": "LASARE3",
+    "section": "EJ",
+    "schedules": [
+      {
+        "day": "JUL09",
+        "time": "1515 - 1615",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "0",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "5931",
+    "course": "LASARE3",
+    "section": "L81",
+    "schedules": [
+      {
+        "day": "JUL23",
+        "time": "1515 - 1615",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "33",
+    "enrolled": "11",
+    "remarks": "",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "2189",
+    "course": "LASARE3",
+    "section": "N01",
+    "schedules": [
+      {
+        "day": "JUN11",
+        "time": "1400 - 1500",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "8",
+    "remarks": "",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "2190",
+    "course": "LASARE3",
+    "section": "N02",
+    "schedules": [
+      {
+        "day": "JUN11",
+        "time": "1400 - 1500",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "0",
+    "remarks": "",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "2191",
+    "course": "LASARE3",
+    "section": "N03",
+    "schedules": [
+      {
+        "day": "JUN11",
+        "time": "1400 - 1500",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "0",
+    "remarks": "",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "1833",
+    "course": "LASARE3",
+    "section": "S11",
+    "schedules": [
+      {
+        "day": "JUN18",
+        "time": "1515 - 1615",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "21",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "1834",
+    "course": "LASARE3",
+    "section": "S12",
+    "schedules": [
+      {
+        "day": "JUN18",
+        "time": "1515 - 1615",
+        "room": "EY408"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "19",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "1835",
+    "course": "LASARE3",
+    "section": "S13",
+    "schedules": [
+      {
+        "day": "JUN18",
+        "time": "1515 - 1615",
+        "room": "EY409"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "10",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "424",
+    "course": "LASARE3",
+    "section": "V24",
+    "schedules": [
+      {
+        "day": "JUL23",
+        "time": "1515 - 1615",
+        "room": "EY407"
+      }
+    ],
+    "enrollmentCap": "40",
+    "enrolled": "13",
+    "remarks": "PIP",
+    "professor": "BANGCAYA, CHRISTIAN PETER  FABE"
+  },
+  {
+    "classNbr": "6150",
+    "course": "LASARE3",
+    "section": "XXE1",
+    "schedules": [
+      {
+        "day": "F",
+        "time": "1400 - 2359",
+        "room": null
+      },
+      {
+        "day": "S",
+        "time": "0001 - 1400",
+        "room": null
+      }
+    ],
+    "enrollmentCap": "33",
+    "enrolled": "0",
+    "remarks": "PIP",
+    "professor": null
+  }
+]
